@@ -155,4 +155,4 @@ psql -h pg -d ucheb
 - `\?` - посмотреть справку по другим командам
 - `\q` - выйти из psql
 
-![image](https://github.com/VeraKasianenko/Database_SE/assets/112972833/ffe2057c-8dac-4bac-aad8-118169b8752d)
+![image](https://github.com/VeraKasianenko/Database_SE/assets/112972833/ed841275-9c69-4f7e-b9be-d41d4e5dc0ef)
